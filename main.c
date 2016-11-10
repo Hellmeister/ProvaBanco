@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 int i;
+int o;
 int pes[200];
 int ncontas;
 
