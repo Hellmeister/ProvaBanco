@@ -23,7 +23,7 @@ struct cadastro
 
 int main()
 {
-    printf("Rapalo Viadinho, quantas contas deseja cadastrar?\n");
+    printf("Rapalo, quantas contas deseja cadastrar?\n");
     scanf("%d", &ncontas);
     do
     {
