@@ -74,6 +74,7 @@ int main()
     case '3':
     buscacliente(listacontas);
         break;
+
     case '4':
         buscaagencia(listacontas);
         break;
